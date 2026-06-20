@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.tenor.com/UJUAfwlciv8AAAAd/remilia-scarlet-remilia.gif" alt="Remilia Scarlet from touhou" width="500" height="200">
+<img src="https://media.tenor.com/UJUAfwlciv8AAAAd/remilia-scarlet-remilia.gif" alt="Remilia Scarlet from touhou" width="500" height="300">
 </div>
 
 <h2 align="center">
