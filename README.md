@@ -1,16 +1,16 @@
-## Hi there 👋
+<div align="center">
+<img src="https://media.tenor.com/UJUAfwlciv8AAAAd/remilia-scarlet-remilia.gif" alt="Remilia Scarlet from touhou" width="800" height="500">
+</div>
 
-<!--
-**mel1u/mel1u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">
+MELANIE | she/her
+</h2>
 
-Here are some ideas to get you started:
+At the moment I am studying
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Interested in:**
+- Operating Systems
+- Linux
+- BSD Systems
+
+Currently learning programming languages and building personal projects.
